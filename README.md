@@ -65,10 +65,6 @@ So why not try a simpler architecture and train it from scratch. And it worked :
 The model was trained for 24 epochs and these are the loss & accuracy plots:
 
 
-![Loss plot](Loss.PNG)
-
-
-![Accuracy plot](Accuracy.PNG)
 
 The best validation accuracy was achieved on the 23rd iteration.
 
